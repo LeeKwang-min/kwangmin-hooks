@@ -1,0 +1,20 @@
+{
+  "name": "@kwangmin-hooks/use-long-press",
+  "version": "1.0.0",
+  "description": "단순 클릭/터치와 길게 클릭/터치한 경우를 구분지어 동작 시키는 핸들러를 반환하는 커스텀 훅스",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["React", "Hooks", "huray", "useLongPress", "Long Press"],
+  "author": "leekwangmin",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeKwang-min/kwangmin-hooks"
+  }
+}
